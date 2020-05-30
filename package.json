@@ -1,0 +1,15 @@
+{
+  "name": "virtuallab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d SVM"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://TaniaRajabally.github.io/Vlabs",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
